@@ -1,6 +1,5 @@
 # Converts data in a 2 dimensional array to an audio (wav) file
 # by Kai Staats, MSc AIMS / UCT 2014-15
-# modified 2017 04/12 while at Northwestern University, Gravity Spy call
 
 import numpy as np
 from sys import *
